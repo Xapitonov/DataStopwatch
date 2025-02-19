@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DataStopwatch</string>
+    <string name="stopwatch">Секундомер</string>
+    <string name="configuration">Конфигурация</string>
+    <string name="theme_configuration">Конфигурация темы</string>
+    <string name="about">О программе</string>
+    <string name="KB">КБ</string>
+    <string name="start_or_stop">Пуск/Стоп</string>
+    <string name="reset">Сброс</string>
+    <string name="mobile_only">Только для мобильных</string>
+    <string name="license">Лицензия</string>
+    <string name="version">Версия</string>
+    <string name="loading">Загрузка</string>
+    <string name="this_program_is_free_software">
+    Данное ПО является свободным: вы можете распространять и/или изменять
+    его в соответствии с условиями GNU General Public License, опубликованной
+    Фондом свободного ПО, либо версии 3 лицензии, либо
+    (по вашему выбору) любой следующей версии.
+
+    Данное ПО распространяется в надежде, что оно окажется полезным,
+    но БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ; даже без подразумеваемых гарантий
+    товарной ценности или пригодности для конкретной цели. См.
+    GNU General Public License для получения дополнительных сведений.
+	</string>
+</resources>
